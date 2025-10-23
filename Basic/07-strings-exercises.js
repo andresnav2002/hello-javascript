@@ -28,4 +28,4 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=7226
     let nick = "samuel";
     console.log(name == nick);
 // 10. Comprueba si dos strings tienen la misma longitud
-    console.log(name.length == nick.length);
+    console.log(name.length == nick.length); 

@@ -96,6 +96,8 @@ console.log(person4)
 console.log(person == person4)
 console.log(person === person4)
 
+
+//Forma correcta de comparar valores entre objetos
 console.log(person.name == person4.name)
 
 // Iteración
@@ -104,7 +106,7 @@ for (let key in person4) {
     console.log(key + ": " + person4[key])
 }
 
-// Funciones como objetos
+// Funciones como objetos 
 
 function Person(name, age) { // Debería ser una clase
     this.name = name

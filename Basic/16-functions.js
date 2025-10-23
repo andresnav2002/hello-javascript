@@ -30,7 +30,7 @@ const myFunc2 = function (name) {
     console.log(`¡Hola, ${name}!`)
 }
 
-myFunc2("Brais Moure")
+myFunc2("Brais Moure") 
 
 // Arrow functions
 
